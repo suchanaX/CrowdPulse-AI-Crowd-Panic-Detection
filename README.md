@@ -59,3 +59,4 @@ that may indicate panic situations, allowing early intervention.
 
 ## 📜 License
 This project is licensed under the MIT License.
+
