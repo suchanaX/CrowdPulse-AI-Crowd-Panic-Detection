@@ -42,7 +42,7 @@ that may indicate panic situations, allowing early intervention.
 ---
 
 ## 🖼️ Sample Output
-![Output Video](videos/output_video.mp4)
+![Output Screenshot](images/output_screenshot.png)
 
 ---
 
