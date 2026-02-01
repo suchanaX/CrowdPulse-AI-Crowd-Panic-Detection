@@ -49,9 +49,7 @@ that may indicate panic situations, allowing early intervention.
 ## 👨‍🎓 Team Details
 - 1st Year Engineering Students  
 - Domains: EE, AIML
--
--
--
+  
 ## 🚀 Future Scope
 - Real-time sensor integration
 - CCTV and drone-based analysis
